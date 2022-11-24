@@ -6,9 +6,9 @@ metadata:
 spec:
   chart:
     spec:
-      version: ">=1.0.0-alpha"
+      version: 6.2.1
   test:
-    enable: false
+    enable: true
   values:
     ingress:
       hosts:
