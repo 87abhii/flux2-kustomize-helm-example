@@ -8,7 +8,7 @@ spec:
     spec:
       version: 6.2.1
   test:
-    enable: true
+    enable: false
   values:
     ingress:
       hosts:
